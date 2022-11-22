@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fairyqueenn / Tatiana Lisdasari
-- 👀 I’m interested in Web Design and UX Research, build my own startup
-- 🌱 I’m currently learning how to pitch invertor
-- 💞️ I’m looking to collaborate on making our own startup
+- 👀 I’m interested in Web Design and UX Research
+- 🌱 I’m currently learning digital marketing, business model, and UX Research
+- 💞️ I’m looking to collaborate on making or own product
 - 📫 How to reach me tatianagzr@gmail.com
 
 <!---
